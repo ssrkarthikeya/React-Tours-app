@@ -2,6 +2,14 @@
 
 Tours App is an React App with an Express Backend API
 
+## Get started
+
+run the below command and Choose Y to start the entire application else choose N to start only UI building
+
+```
+bash buildApp.sh
+```
+
 ## Installation
 
 Use the package manager npm to install the Client located in `/views/client. `
